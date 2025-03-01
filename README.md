@@ -1,15 +1,15 @@
-#Data Scientist 
+# Data Scientist 
 
 
-###Education
+### Education
 Statistics, PhD
 
-###work Experience 
+### work Experience 
 Research Assitant of Statistical Machine Learning
 - big impact project 1
 - big impact project 2
 
-###Projects
+### Projects
 EEG band 
 
 
