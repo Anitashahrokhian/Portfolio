@@ -1,5 +1,5 @@
 
-![Picture](/assets/photo_cir.png)
+![Picture](img/photo_cir.png)
 # Data Scientist 
 
 
