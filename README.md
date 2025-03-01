@@ -1,4 +1,4 @@
-![Profile Picture]({{ site.logo }})
+
 # Data Scientist 
 
 
