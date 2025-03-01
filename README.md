@@ -1,3 +1,5 @@
+
+![Picture](/assets/photo.jpg)
 # Data Scientist 
 
 
