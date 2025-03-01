@@ -1,5 +1,4 @@
 
-![Picture](img/photo_cir.png)
 # Data Scientist 
 
 
