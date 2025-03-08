@@ -5,7 +5,9 @@ I'm a Ph.D. in statistics with a strong focus on active learning, adaptive desig
 # Read about my projects 
 
 ### work Experience 
-This section is a work in progress. I will be uploading my projects soon to showcase my skills! 😊
+
+
+This section is a work in progress. I will be uploading my projects soon to showcase my skills!
 
 
 
