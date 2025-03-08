@@ -5,9 +5,7 @@ I'm a Ph.D. in statistics with a strong focus on active learning, adaptive desig
 # Read about my projects 
 
 ### work Experience 
-Research Assitant of Statistical Machine Learning
-- big impact project 1
-- big impact project 2
+This section is a work in progress. I will be uploading my projects soon to showcase my skills! 😊
 
 
 
